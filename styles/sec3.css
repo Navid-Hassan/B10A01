@@ -20,9 +20,15 @@
     width: 364px;
     padding: 40px;
     margin-bottom: 111px;
+    box-shadow: 1px 1px 10px;
 }
+
+
 .html{
     background-color: #EBEBEB;
+}
+.html:hover,.css:hover,.js:hover{
+    background-color: rgb(194, 187, 177);
 }
 .css{
     background-color: #B9C2D5;
@@ -46,3 +52,4 @@
 .sec3-2-tags div{
     text-align: left;
 }
+
