@@ -24,7 +24,7 @@
     background-color: rgb(155, 211, 192);
 }
 .banner{
-    background-image: url('./assets/Hero-bg.png');
+    background-image: url('../assets/Hero-bg.png');
     text-align: center;
     padding: 26px 221px 45px;
 }
