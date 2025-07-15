@@ -1,0 +1,48 @@
+.sec3{
+    text-align: center;
+    margin: 151px auto 0;
+    width: 1140px;
+    
+}
+.h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.sec3-1-tags{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+    margin-top: 48px;
+}
+.sec3-1-tags div{
+    height: 299px;
+    width: 364px;
+    padding: 40px;
+    margin-bottom: 111px;
+}
+.html{
+    background-color: #EBEBEB;
+}
+.css{
+    background-color: #B9C2D5;
+}
+.js{
+    background-color: #F4F2E1;
+}
+
+.sec3-2{
+    margin-top: 111px;
+}
+.sec3-2-tags{
+    display: flex;
+    gap: 24px;
+    margin: 24px auto 0;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.sec3-2-tags div{
+    text-align: left;
+}

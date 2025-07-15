@@ -1,8 +1,10 @@
 .sec1{
-    margin: 74px 152px 0px 148px;
+    margin: 74px auto 0;
     padding: 80px 97px;
     text-align: center;
     background-color: #f6fafc;
+    height: 1393px;
+    width: 1140px;
 }
 .part1{
     margin: 80px 144px 0px;
@@ -13,4 +15,13 @@
     padding: 48px;
     background-color: white;
     margin-top: 48px;
+}
+.sec1 button{
+    height: 47px;
+    width: 171px;
+    border-radius: 10px;
+}
+.sec1 button:hover{
+    background-color: bisque;
+    cursor: pointer;
 }

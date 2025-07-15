@@ -1,0 +1,38 @@
+.sec4 {
+    text-align: center;
+    width: 1140px;
+    background-image: url('/assets/handshake.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 49px auto 0;
+    border-radius: 10px;
+    padding: 64px 48px;
+    box-sizing: border-box;
+}
+
+.sec4 textarea {
+    height: 57px;
+    width: 548px;
+    border-radius: 10px;
+    padding: 19px 215px 19px 20px;
+}
+
+.sec4 button {
+    height: 57px;
+    width: 120px;
+    border-radius: 10px;
+    padding: 17px 20px;
+    cursor: pointer;
+
+}
+.sec4 button:hover{
+    background-color: aqua;
+}
+.sec4-text{
+    color: white;
+}
+.sec4-write{
+    display: flex;
+    justify-content: center;
+}
