@@ -1,0 +1,16 @@
+.sec1{
+    margin: 74px 152px 0px 148px;
+    padding: 80px 97px;
+    text-align: center;
+    background-color: #f6fafc;
+}
+.part1{
+    margin: 80px 144px 0px;
+}
+.part2{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    background-color: white;
+    margin-top: 48px;
+}
