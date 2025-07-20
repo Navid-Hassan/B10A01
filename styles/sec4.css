@@ -36,3 +36,26 @@
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width : 576px) {
+
+    .sec4{
+        background-image: none;
+        width: 100%;
+        margin: 10px;
+        padding: 0px;
+    }
+    .sec4-text{
+        color: black;
+        padding: 0;
+        margin: 0;
+    }
+    .sec4-write{
+        flex-direction: column;
+    }
+    .sec4-write textarea{
+        width: 50%;
+        margin-bottom: 10px;
+    }
+
+}
