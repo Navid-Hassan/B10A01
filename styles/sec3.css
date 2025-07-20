@@ -53,3 +53,14 @@
     text-align: left;
 }
 
+
+@media screen and (max-width : 576px) {
+      .sec3{
+        width: 100%;
+      }
+      .sec3-1-tags,.sec3-2-tags{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-bottom: `0px;
+       }     
+}
