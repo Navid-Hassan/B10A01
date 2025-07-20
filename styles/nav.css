@@ -45,3 +45,35 @@
 .btn2:hover{
     background-color: brown;
 }
+.hide{
+    display:none;
+}
+
+/* For mobile phone  */
+@media screen and (max-width : 576px) {
+    .nav1{
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 50%;
+    }
+    .nav1 h2{
+        margin-left: 10px;
+        margin-bottom: 0px;
+    }
+    .nav1 .btn1{
+        margin-top: 10px;
+        margin-left: 10px;width: 70%;
+    }
+    .banner{
+        background-image: none;
+        width: 100%;
+        padding: 0px;
+    }
+    .banner h2,p{
+        padding: 0;
+    }
+    .btn2{
+        margin-left: 10px;
+    }
+   
+}
